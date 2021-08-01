@@ -1,0 +1,4 @@
+jupyterhub==1.4.2
+nbgitpuller==0.10.1
+nb_conda_kernels==2.3.1
+
